@@ -1,4 +1,4 @@
-name: 300 Jobs Large Workflow
+name: 20 Jobs Large Workflow
 'on': workflow_dispatch
   # push:
   #   branches:
